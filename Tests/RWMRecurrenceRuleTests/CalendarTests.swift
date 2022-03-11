@@ -7,6 +7,7 @@
 //
 
 import XCTest
+@testable import RWMRecurrenceRule
 
 class CalendarTests: XCTestCase {
     func testWeeklyMonth() {

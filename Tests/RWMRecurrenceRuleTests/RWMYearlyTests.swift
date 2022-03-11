@@ -7,6 +7,7 @@
 //
 
 import XCTest
+@testable import RWMRecurrenceRule
 
 class RWMYearlyTests: RWMRecurrenceRuleBase {
     // ----------- YEARLY ------------
